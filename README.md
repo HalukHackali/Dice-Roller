@@ -11,3 +11,5 @@
 
 
 ![](QuickTime_movie.gif)
+
+![](dice_roll.png)
