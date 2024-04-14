@@ -10,4 +10,4 @@
 
 
 
-![](dice_roll.png)
+![](QuickTime movie.gif)
